@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAGetMailASPNET", "EAGetMailASPNET\EAGetMailASPNET.csproj", "{6669CF6D-4D56-4604-9C12-E339746CA0CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6669CF6D-4D56-4604-9C12-E339746CA0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6669CF6D-4D56-4604-9C12-E339746CA0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6669CF6D-4D56-4604-9C12-E339746CA0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6669CF6D-4D56-4604-9C12-E339746CA0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {451F8BA6-36B9-4122-840F-E96FF3922E44}
+	EndGlobalSection
+EndGlobal
